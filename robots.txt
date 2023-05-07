@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://bocaiwwasuiw.github.io/sitemap.xml
